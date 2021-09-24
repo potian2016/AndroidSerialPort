@@ -9,5 +9,5 @@
 	}
 # Step 2. Add the dependency
 # dependencies {
-	        implementation 'com.github.potian2016:AndroidSerialPort:v1.0.0'
+	        implementation 'com.github.potian2016:AndroidSerialPort:v2.4.0'
 	}
